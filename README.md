@@ -1,2 +1,0 @@
-# SkyIsland
-License
